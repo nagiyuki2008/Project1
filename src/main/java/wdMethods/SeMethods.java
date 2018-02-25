@@ -33,7 +33,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import utils.Reporter;
-
+//nageswari changed the code
 public class SeMethods extends Reporter implements WdMethods{
 
 	public static RemoteWebDriver driver;
